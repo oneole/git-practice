@@ -14,10 +14,9 @@
     <div>
         <h2>
             <p> My name is Zhuoyuan Li. My Student ID is 622115515. My friends calls me Eric. I'm 22 years old now and currently study in
-                first year at Faculty of Engineering majored in Mechanical Engineering. The reasons I choose to study
-                mechanical engineering is I like to learn about the machinary like, how they works or how do we create or
-                design the machine. Plus I want to work in an automotive or aviation field so, mechanical engineering really
-                suits me.
+                first year at Faculty of CAMT majored in Software Engineering. The reasons I choose to study
+               software engineering is I like to learn about the computer like, how they works or how do we create or
+                design the programs.software engineering really suits me.
         </h2>
         </p>
         <img src="me.png">
